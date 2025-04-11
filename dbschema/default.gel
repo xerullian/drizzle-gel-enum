@@ -1,10 +1,23 @@
+### issue 1 ###
+
 module default {
 
 scalar type Rating extending enum<PG, R>;
 
-  type Snippet {
+  type Movie {
     required title: str;
     required description: str;
     rating: Rating;
   }
 }
+
+
+### issue 2 ###
+
+#module foo {
+#
+#  type Movie {
+#    required title: str;
+#    required description: str;
+#  }
+#}
