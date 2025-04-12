@@ -110,9 +110,10 @@ The command completes successfully with output, but 0 definitions are fetched fr
 
 ## Environment (Example)
 
-*   **Bun:** `1.2.2`
-*   **`drizzle-kit`:** `0.30.6`
-*   **`drizzle-orm`:** `0.41.0`
-*   **`gel-cli`:** `7.2.0+70c7e2`
-*   **Gel Server:** `6.4+4e5cda`
-*   **OS:** `Nobara Linux 41 (KDE)`
+* **Bun:** `1.2.2`
+* **`drizzle-kit`:** `0.30.6`
+* **`drizzle-orm`:** `0.41.0`
+* **`gel-cli`:** `7.2.0+70c7e2`
+* **Gel Server:** `6.4+4e5cda`
+* **Gel:** `2.0.2`
+* **OS:** `Nobara Linux 41 (KDE)`
